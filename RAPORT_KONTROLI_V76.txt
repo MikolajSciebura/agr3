@@ -1,0 +1,17 @@
+AUDYT V76 – 16 LISTOPADA 2026
+PODSTAWA: V75; treści i zdjęcia od właścicielki z dotychczasowej korespondencji.
+
+ZAKRES
+• Strona główna i 4 właściwe podstrony ofertowe + plik przekierowania historycznej literówki.
+• 7 pokoi, 6 km Kłobuck, 10 km Częstochowa – sprawdzone w widocznym tekście.
+• Cztery główne karty ofertowe i osobna sekcja Aktywny wypoczynek (rowerzyści i wędkarze).
+• Zdjęcie przygotowań wędkarzy na terenie obiektu w ich sekcji i w galerii.
+• Łazienki, kuchnia, pralka, parking, przechowanie rowerów, sklepy i rachunki.
+• 19 pozycji FAQ z odpowiedziami na stronie głównej.
+• Sprawdzenie lokalnych odnośników i obrazów, składni JSON-LD oraz archiwum ZIP.
+• Zaktualizowano główny URL obrazu w JSON-LD do faktycznego zdjęcia frontu.
+• Usunięto stare, mylące raporty i instrukcje odnoszące się do V69–V74.
+
+OGRANICZENIA
+Nie wykonano wiarygodnego wizualnego testu w Chromium (przeglądarka w środowisku nie wygenerowała podglądu). Nie wykonano testu strony na działającym hostingu ani testów wydajności i rzeczywistych formularzy na urządzeniach. Domena nie została wprowadzona do generatora SEO.
+Należy zweryfikować fakty w DO_POTWIERDZENIA.txt.

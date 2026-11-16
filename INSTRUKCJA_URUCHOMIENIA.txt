@@ -1,0 +1,21 @@
+POKOJE GOŚCINNE KAMYK – V76 DO AKCEPTACJI (16.11.2026)
+
+PODGLĄD
+1. Rozpakuj całe archiwum ZIP i wejdź do folderu POKOJE_GOSCINNE_V76_FINAL_DO_AKCEPTACJI.
+2. Otwórz index.html, sprawdź wszystkie sekcje i podstrony.
+3. Na telefonie sprawdź menu, hero, cztery oferty, aktywny wypoczynek, galerię, lokalizację i WhatsApp.
+
+PRZED PUBLIKACJĄ
+4. Potwierdź z właścicielką niewyjaśnione kwestie wypisane w DO_POTWIERDZENIA.txt.
+5. Uruchom w folderze strony (po wpisaniu prawdziwej domeny):
+   python publish_seo.py https://TWOJA-DOMENA.pl
+   Ten krok generuje canonical, Open Graph, schema URL, sitemap.xml i robots.txt.
+6. Wgraj ZAWARTOŚĆ folderu strony do public_html hostingu; nie twórz dodatkowego katalogu w public_html.
+7. Włącz SSL/HTTPS i właściwe przekierowanie www w hostingu. Zweryfikuj działanie .htaccess na hostingu Apache/LiteSpeed.
+8. Sprawdź działanie /, czterech podstron, /robots.txt, /sitemap.xml, telefonu, WhatsApp, formularza i galerii.
+9. Zaktualizuj adres strony w Profilu Firmy w Google. Uporządkuj stare publiczne kopie z GitHub Pages i Netlify przez przekierowania, jeśli możliwe, albo usuń kopie z indeksacji.
+10. Dodaj domenę do Google Search Console i wyślij sitemap.xml; wykonaj test PageSpeed Insights i RWD na realnym URL.
+
+UWAGA
+Formularz wyłącznie otwiera w WhatsApp przygotowaną wiadomość – nie dokonuje rezerwacji.
+Do publikacji na docelowej domenie konieczne jest wykonanie punktu 5. W paczce do akceptacji domena nie została wpisana na sztywno.
